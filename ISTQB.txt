@@ -1,0 +1,46 @@
+1- Aşağıdaki bulgulardan hangisi statik testte bulunamaz? (Which of the following issues cannot be found with static testing?) (3.1.3, P42
+a) Yüksek bağlaşım (high coupling)
+b) Tamamlanmamış gereksinimler (incomplete requirements)
+c) Yavaş tepki süresi (Slow response times)(dogru)
+d) Belirsiz değişkenler (Undefined variables)
+
+
+2-Plot Proje ile ilgili bir soru vardı.Amacını soruyordu?
+  -- Etkilerini ölçmek gibi bir şık vardı ben onu işaretledim (73. sayfa)
+
+3-Aşağıdakilerden hangisi Proje riskidir.
+4-Aşağıdakilerden handisi Product Risktir. (İki ayrı soru) 
+5-Windowsa göre bir proje hazırlamışsın sonra Linux te kullanmaya devam edilmesini istiyorsun şeklinde bir açıklama bu durumda hangi testi yapman 
+gerekir diyordu
+  -- Buna ben Maintance testing dedim
+6-Tester ile ilgili görevleri yazmış teker teker, bunları yapan kişi kimdir demişti
+  --Cevap test uzmanı olacaktı
+7-Aşağıdakilerden hangisi test uzmanını görevleri arasında yer alır demişti
+  --Şıklarda test manager ın görevlerini yazmış bir şıktada test uzmanını görevlerinden birini yazmıştı.(58)
+8-İyi bir testin karakteristliğini soruyordu
+9-2 tane if else (birinde while) bloğu vermişti.Birinde decision coverage diğerinde satatement coverage soruyordu
+10-Bir soruda yine bir kod vermiş kaç farklı sonuç alınır diyordu 0,-1,1 sonuçları döndrüyordu ben o yüzden 3 yazdım
+11-Diğer bir soruda Equivalece Partitioning vardı valid-invalid Partitionslardan sadece Valid olanları soruyordu.
+12 Developer ile Testter ı karşılaştırıyordu. Hangisinin en uygun açıklama olduğunu soruyordu. 
+13-Black-box teknilerinin neler olduğunu sormuş
+  --Equivalece, Boundry ,Decision table,state transition olan bir şık vardı cevap buydu
+14- Main prinnciple for tool selection ile ilgili bir soru vardı (çok kolaydı.) (neye gore arac seciyoruz)
+15-Dinamik test ile statik test arasında ki farklardan yanlış olanı soruyordu.
+ --Cevap statik testin dinamikten sonra yapıldığı ile ilgili birşeyler yazmışlardı o olacaktı.
+16-Regression testin sordular. Özellikle sistem regresion ve birim regresionu ayırt etmeye yönelik bir soruydu.
+
+17 Bu soru vardı.
+Aşağıdakilerden hangisi Walkthrough (ÜZERİNDEN GEÇME) ve Technical review (Teknik
+Gözden Geçirme) için ortak özelliktir?f
+A) Use of checklists (optional demiyordu)
+B) Scribe is mandatory (katip/kaydedici/yazar zorunludur) 
+C) Review meeting is typically led by the author (Review meetin Author tarafından yapılır)
+D) Individual preparation before the review meeting is required(bireysel ön hazırlık gerekli)
+
+18-Static testing tool ile ilgili bir soru vardı
+19- White Box testing
+20-Implemation and execution ile ilgili soruları vardı hangisi bu süreç içerisinde yapılmaz 
+21-analiz and Desing ile ilgili bir soru vardı hangisi bu süreç içerisinde yapılır diyordu
+
+
+
